@@ -24,7 +24,7 @@ async def ping(ctx) :
     await client.say("Pong!")
     
 async def dylansucks(ctx) :
-    await client.say("Pong!")
+    await client.say("He really does")
     
     
 client.run("NDExMzA3MjM0OTkyMDYyNDY1.DV53sg.D_PfR2WyWs7MSgGA3TME4JMJA2s") 
